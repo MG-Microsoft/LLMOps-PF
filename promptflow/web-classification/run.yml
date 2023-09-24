@@ -8,7 +8,7 @@ runtime: pf-runtime
 connections:
   classify_with_llm:
     connection: mg-demo-aoai
-    deployment_name: gpt-35-turbo-16k
+    deployment_name: gpt-35-turbo-v0301
   summarize_text_content:
     connection: mg-demo-aoai
-    deployment_name: gpt-35-turbo-16k
+    deployment_name: gpt-35-turbo-v0301
